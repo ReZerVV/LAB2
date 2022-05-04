@@ -1,0 +1,4 @@
+Soft Skills
+Lab 2 [GIT]
+Kiril Morozov KNT-151
+version = [0.1]
